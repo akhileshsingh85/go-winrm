@@ -1,4 +1,4 @@
-module github.com/owais/go-winrm
+module github.com/akhileshsingh85/go-winrm
 
 go 1.24
 
